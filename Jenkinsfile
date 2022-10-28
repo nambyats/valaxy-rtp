@@ -1,5 +1,5 @@
-def imageName = 'stalinrtp.jfrog.io/valaxy-docker/valaxy-rtp'
-def registry  = 'https://stalinrtp.jfrog.io'
+def imageName = 'saeer.jfrog.io/valaxy-docker/valaxy-rtp'
+def registry  = 'https://sajeer.jfrog.io/'
 def version   = '1.0.1'
 def app
 pipeline {
